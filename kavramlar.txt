@@ -1,0 +1,3 @@
+pass by value, pass by reference.
+pass by reference argüman olarak eleman adres'ini girmek.
+FILE* fp falan => file pointer kavramı

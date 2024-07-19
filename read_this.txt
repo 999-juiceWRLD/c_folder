@@ -1,0 +1,7 @@
+read this text!
+
+it's a nice day in california.
+
+wonder how LLM's work. token prediction is based.
+
+check out this. how many lines are there in this file?
